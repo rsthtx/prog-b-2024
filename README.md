@@ -1,7 +1,5 @@
-# prog-b-2024
+# prog-b-2024-2026
 
-Test om det virker.
+## HTML basics
 
-## Projekter
-
-- [My website](website/)
+- [HTML intro demo](html-demo/)
