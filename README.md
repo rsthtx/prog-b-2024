@@ -18,4 +18,4 @@
 - Robert (link mangler)
 - Simen (link mangler)
 - Soma (link mangler)
-- Søren (link mangler)
+- [Søren - sigurdfrarg](https://sigurdfrarg.github.io/) ([source](https://github.com/sigurdfrarg/sigurdfrarg.github.io))
