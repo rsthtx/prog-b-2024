@@ -1,0 +1,12 @@
+h1, h2, h3 {
+    color: red;
+    border: 5px dashed green;
+}
+
+h3 {
+    border: none;
+}
+
+ul {
+    background-color: blue;
+}
