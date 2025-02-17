@@ -4,6 +4,10 @@
 
 - [HTML intro demo](html-demo/)
 
+## Spil med Godot
+
+- [Eksempel på my first script](godot/my-first-script/builds/web/)
+
 ## Deltagere
 
 - [Alexander - r370](https://r370.github.io/) ([source](https://github.com/r370/r370.github.io))
